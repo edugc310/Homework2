@@ -61,7 +61,7 @@ public class HomeController : Controller
             }
         }
 
-        return View(contacts);
+        return View(contacts2);
     }
 
     public IActionResult Privacy()
